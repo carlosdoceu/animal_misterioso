@@ -1,0 +1,28 @@
+*,*:after,*:before{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    font-famiLy: arial;
+    font-size: 16px;
+    margin: e;
+    background: linear-gradient(to right bottom, #270431,#031f6a);
+    display: flex;
+    aLign-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    color: #ffffff;
+}
+
+.voice_to_text{
+    width: 600px;
+    text-align: center;
+}
+#convert_text{
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+    resize: none;
+}
