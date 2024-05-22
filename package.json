@@ -1,0 +1,17 @@
+{
+  "name": "animal_misterioso",
+  "version": "1.0.0",
+  "description": "Um animal é randomizado 1,5 milhão de espécies kkkkkkkkk\r Cabe o usuario adivinhar o animal misterioso.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
